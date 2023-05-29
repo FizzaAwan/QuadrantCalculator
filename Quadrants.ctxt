@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Quadrants
+comment0.text=\r\n\ \ \ A\ program\ that\ reads\ in\ an\ angle\ between\ 0\ and\ 359,\r\n\ \ \ \ \ \ and\ prints\ out\ which\ quadrant\ it\ is\ in.\r\n\ \ \ For\ example,\ the\ input\ of\ 20\ is\ in\ quadrant\ I,\ and\r\n\ \ \ \ \ \ similarly,\ the\ input\ of\ 330\ is\ in\ quadrant\ IV.\r\n\ \ \ Use\ error\ validation\ to\ print\ out\ an\ error\ message\r\n\ \ \ \ \ \ if\ an\ input\ angle\ is\ not\ between\ 0\ and\ 359\ degrees.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
